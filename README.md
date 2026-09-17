@@ -5,10 +5,10 @@ Tools for live video, built by people who have had to make a show happen.
 ## [Deckboy](https://github.com/Utopian-Academy/Deckboy)
 
 Open-source cue-based media playback and show control. Media is a playlist of
-cues with fades, loops and hold-last-frame, sent to dedicated fullscreen
-outputs — and the same machine speaks NDI, SRT, RTMP, Blackmagic SDI, SMPTE
-ST 2110 and Spout at the same time, so an NDI source can reach an SDI router
-and a stream at once.
+cues with fades, loops and hold-last-frame, sent to a fullscreen output, an SRT
+stream or Blackmagic SDI — and a stream and a recording can run at the same
+time. A different deck on each output — multi-deck, multi-output playback —
+is coming in Super Deckboy.
 
 Slide decks import as one cue per slide, with speaker notes, a presenter view
 and a mirrored teleprompter as output types of their own. Cues are driven from
