@@ -1,6 +1,6 @@
 # Utopian Academy
 
-Tools for live video, built by people who have had to make a show happen.
+Tools for a better tomorrow, today! 
 
 ## [Deckboy](https://github.com/Utopian-Academy/Deckboy)
 
